@@ -67,6 +67,7 @@
 		<value>TacticalModules</value>
 		<value version="Rebellion">Social</value>
 		<value version="Rebellion">Industry</value>
+		<value version="Rebellion">Smuggler</value>
 	</element_rule>
 	<element_rule name="allianceType" validation="Simple">
 		<value>Invalid</value>
